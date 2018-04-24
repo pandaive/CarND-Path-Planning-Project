@@ -40,7 +40,7 @@ In this project your goal is to safely navigate around a virtual highway with ot
 
 Implementation of the path planning can be found in main.cpp in lines 247-458. It consist of sensor fusion data analysis, making a decision on next move and calculating the path of the car.
 
-![image.png]
+![Lane change](./image.png)
 
 # Sensor fusion data
 
